@@ -159,6 +159,6 @@ README.txt           快速参考
 
 ---
 
-*Switch 模拟器 · 更新于 2026-11-09 · 基于 MIT 许可证共享*
+*Switch 模拟器 · 更新于 2026-11-10 · 基于 MIT 许可证共享*
 
-<!-- last reviewed 2026-11-09 -->
+<!-- last reviewed 2026-11-10 -->
